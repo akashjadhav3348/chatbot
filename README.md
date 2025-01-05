@@ -1,8 +1,12 @@
-# React + Vite
+# TechRel Technology
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TechRel Technology Karve Nagar, Pune
 
-Currently, two official plugins are available:
+## Contact
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Email: akashjadhav3348@gmail.com
+- Personal Website: [akashjadhav3348.github.io](https://akashjadhav3348.github.io/Akashjadhav.github.io/)
+- Alternate Website: [akashjadhav7218.in](https://akashjadhav7218.in)
+- LinkedIn: [Akash Jadhav](https://www.linkedin.com/in/akash-jadhav-b47b62193)
+- WhatsApp: [Chat on WhatsApp](https://wa.me/+917218794501)
+
